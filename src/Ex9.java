@@ -24,9 +24,5 @@ public class Ex9 {
             sortedNames.add(index, name);
         }
 
-        }
-
-
     }
 }
-
